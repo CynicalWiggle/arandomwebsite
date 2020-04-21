@@ -16,10 +16,10 @@ background-size: cover;}
 
 p{color: white;
 	font-family: "Courier New", Courier, monospace;
-	font-size: 3em;
-	border-bottom: 2mm white;
-	border-right:2mm white;
-	width:500mm;
+	font-size: 0.5em;
+	border-bottom: 1mm white;
+	border-right:1mm white;
+	width:350mm;
 	text-align: center;
 	box-shadow: 4px 4px 5px #888888
 }
@@ -32,5 +32,5 @@ p{color: white;
  }
 
  img:hover{
- 	transform: scale(1.5);
+ 	transform: scale(0.5);
  }
