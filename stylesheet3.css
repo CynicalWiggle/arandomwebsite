@@ -20,28 +20,30 @@ background-size: cover;}
 	background-image:  url(https://media1.giphy.com/media/3o7TKLKBXz6RVuEDDO/source.gif);
 	background-position: center;
 	background-size: cover;
+	text-decoration-color: white;
 
 }
-
 
 
 
 .btn-light{background-color: #B0C4DE;
+	border-color: black;
 
 }
 
-.btn-light:hover{
-	background-color: #9370DB;
+.button:hover{
+	background-color:#FFF0F5;
+	border-color: black;
+	border-right-color: black;
+
 }
 
 
 
- img{width: 450px;
- 	height: 450px;
+ img{width: 550px;
+ 	height: 300px;
  	margin: 10px;
  	transition: all 1s;
  }
 
- img:hover{
- 	transform: scale(1.1);
- }
+ 
