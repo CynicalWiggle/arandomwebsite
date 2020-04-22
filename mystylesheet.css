@@ -1,6 +1,4 @@
-.gallery{transition: 1s;
-
-}
-.gallery:hover {transition: scale(1.2)
-
-}
+.subpage{
+	background-image: url(https://lh3.googleusercontent.com/proxy/29vkqWCUgVEZ4XhqrttWnncT2CyirmD7GK5tJyxkaR_9VJB2fmtjM-znlqJEZQwZuv-ub8GysOURRTWW6sClIY2qcoA);
+	background-position: center;
+	background-size: cover;
