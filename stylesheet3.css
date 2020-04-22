@@ -6,8 +6,16 @@
 body {background-image: url(https://media2.giphy.com/media/3o7TKVqpxDqwGsyzBe/source.gif);
 background-size: cover;}
 
+{background-color: #E0FFFF;
+}
+
 .button{
 	transition: 1s;
+}
+
+.btn.btn-outline-dark:hover{
+	background-color: #B0C4DE;
+	outline-color: black;
 }
 
 .button:hover{
