@@ -1,0 +1,28 @@
+
+
+
+
+h3{
+	font-family: Palatino, sans-serif;
+}
+
+
+
+.elementToFadeInAndOut {
+    text-align: center;
+    -webkit-animation: fadeinout 6s linear forwards;
+    animation: fadeinout 6s linear forwards;
+  animation-iteration-count: 2;
+}
+
+}
+
+@-webkit-keyframes fadeinout {
+  0%,100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+@keyframes fadeinout {
+  0%,100% { opacity: 0; }
+  50% { opacity: 1; }
+}
